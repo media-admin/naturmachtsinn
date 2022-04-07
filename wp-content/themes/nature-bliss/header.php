@@ -84,3 +84,4 @@
 	   */
 	  do_action( 'nature_bliss_action_content' );
 	?>
+	<?php echo do_shortcode('[metaslider id="122"]'); ?>
